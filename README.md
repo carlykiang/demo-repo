@@ -4,4 +4,8 @@ Some description!
 
 ## Subheader
 
-Watch tutorial
+Watch tutorial 
+
+## Local development
+1. Open index.html in your browser
+
